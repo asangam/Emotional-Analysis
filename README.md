@@ -4,5 +4,6 @@ __Strict Requirement : Python 3.6.8 required and the modules from the requiremen
 
 
 ```
-pip install -U -r requirements.txt 
+pip install -U -r requirements.txt {To install all the required modules}
+python facEmo.py  {To run the program}
 ```
