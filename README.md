@@ -1,0 +1,1 @@
+Emotional / Sentiment Analysis using Robert Plutchik's Wheel of Emotions 
