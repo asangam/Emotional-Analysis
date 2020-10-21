@@ -10,4 +10,4 @@ python facEmo.py  {To run the program}
 
 # RELEASES
 
-__First Release__ : V1.0
+__First Release__ : <a href="https://github.com/asangam/Emotional-Analysis/releases">V1.0</a>
