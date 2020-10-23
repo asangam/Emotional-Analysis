@@ -2,7 +2,7 @@
 
 __Strict Requirement : Python 3.6.8 required and the modules from the requirements.txt file__ 
 
-<img src= "/Plutchik.png"/>
+<img src= "/Plutchik.png" width ="400px"/>
 ```
 pip install -U -r requirements.txt {To install all the required modules}
 python facEmo.py  {To run the program}
